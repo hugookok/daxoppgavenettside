@@ -1,0 +1,29 @@
+p{
+    font-size: 20px;
+    color: white;
+}
+#randomnumber{
+    font-size: 40px;
+}
+#sidescenter{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 244px;
+    height: 285px;
+    margin-left: -122px;
+    margin-top: -167px;
+}
+body{
+    background-image: linear-gradient(to right, rgb(0, 131, 113) , rgb(0, 81, 134));
+}
+#normaltext{
+    font-size: 20px;
+    color: white;
+    background-color: rgb(0, 81, 134);
+}
+#myText{
+    font-size: 20px;
+    color: white;
+    background-color: rgb(0, 81, 134);
+}
